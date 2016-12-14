@@ -1,0 +1,23 @@
+[2016-12-13 18:39:29] START
+[2016-12-13 18:46:53] CREATE basics.py: 0
+[2016-12-13 18:49:56] EDIT edsdevsite01/controllers/basics.py: 4
+[2016-12-13 18:51:47] CREATE basics/helloworld.html: 0
+[2016-12-13 18:54:22] EDIT edsdevsite01/views/basics/helloworld.html: 2
+[2016-12-13 18:57:52] EDIT edsdevsite01/views/basics/helloworld.html: 3
+[2016-12-13 19:21:07] EDIT edsdevsite01/controllers/basics.py: 5
+[2016-12-13 19:22:09] CREATE basics/request.args: 0
+[2016-12-13 19:22:38] DELETE edsdevsite01/views/basics/request.args: 0
+[2016-12-13 19:22:57] CREATE basics/request_args.html: 0
+[2016-12-13 19:24:55] EDIT edsdevsite01/views/basics/request_args.html: 2
+[2016-12-13 19:33:01] EDIT edsdevsite01/controllers/basics.py: 9
+[2016-12-13 19:34:16] CREATE basics/request_vars.html: 0
+[2016-12-13 19:38:54] EDIT edsdevsite01/views/basics/request_vars.html: 7
+[2016-12-13 19:44:51] EDIT edsdevsite01/controllers/basics.py: 10
+[2016-12-13 19:45:12] CREATE basic/request_object.html: 0
+[2016-12-13 19:49:45] EDIT edsdevsite01/views/basic/request_object.html: 9
+[2016-12-13 19:58:56] EDIT edsdevsite01/controllers/basics.py: 1
+[2016-12-13 19:59:10] EDIT edsdevsite01/controllers/basics.py: 0
+[2016-12-13 20:27:50] EDIT edsdevsite01/controllers/basics.py: 12
+[2016-12-13 20:28:34] CREATE basics/random_number.html: 0
+[2016-12-13 20:30:08] EDIT edsdevsite01/views/basics/random_number.html: 5
+[2016-12-13 20:31:05] EDIT edsdevsite01/views/basics/random_number.html: 0
